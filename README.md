@@ -28,6 +28,10 @@ Baixe o instalador na página de **[Releases](../../releases)**:
 - **Atalhos com ícone de verdade**, inclusive os `.url` da Steam e da Epic.
 - **🔒 Cadeado** na barra de título para travar a posição e o tamanho.
 - **Recolher a caixa** até ficar só a barra de título. Ela abre sozinha quando o mouse passa por cima.
+- **Ímã nas bordas do monitor:** perto de uma borda, a caixa gruda nela. Na borda de baixo ela abre
+  **para cima**; nas laterais, recolhida, vira uma **faixa vertical** que abre para dentro da tela.
+
+  ![Caixas grudadas nas bordas](docs/ancoras.png)
 - **Caixa selecionada fica por cima** das outras janelas e volta para o desktop ao clicar fora.
   As caixas também não somem com Win+D e não aparecem no Alt+Tab.
 - **Regras automáticas:** arquivos que aparecem no Desktop vão sozinhos para a caixa certa. As
@@ -59,7 +63,8 @@ nem as pastas das caixas.
 
 **Caixas Desktop** is a Windows desktop organizer: semi-transparent boxes on the desktop, each
 linked to a real folder. It includes auto-sorting rules, per-monitor layout profiles, a position
-lock, roll-up boxes, a settings window and start-with-Windows. The app and the installer are
+lock, roll-up boxes, edge snapping (boxes open toward the screen), a settings window and
+start-with-Windows. The app and the installer are
 available in 9 languages (English, Portuguese, Spanish, French, German, Italian, Japanese,
 Simplified Chinese and Russian). Download the installer from **[Releases](../../releases)**.
 
