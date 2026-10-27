@@ -32,6 +32,8 @@ Baixe o instalador na página de **[Releases](../../releases)**:
   **para cima**; nas laterais, recolhida, vira uma **faixa vertical** que abre para dentro da tela.
 
   ![Caixas grudadas nas bordas](docs/ancoras.png)
+- **Inverter aba:** no menu ⋯ da caixa, escolha a barra de título em cima, embaixo, à esquerda ou
+  à direita. A caixa abre para o lado oposto, em qualquer lugar da tela.
 - **Caixa selecionada fica por cima** das outras janelas e volta para o desktop ao clicar fora.
   As caixas também não somem com Win+D e não aparecem no Alt+Tab.
 - **Regras automáticas:** arquivos que aparecem no Desktop vão sozinhos para a caixa certa. As
