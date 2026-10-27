@@ -8,7 +8,7 @@ o que você arrasta para a caixa vai para a pasta, e o que entra na pasta aparec
 
 ## ⬇️ Download
 
-Baixe o instalador na página de **[Releases](../../releases/latest)**:
+Baixe o instalador na página de **[Releases](../../releases)**:
 **`CaixasDesktop-Setup-<versão>.exe`**.
 
 - Windows 10 ou 11, 64 bits
@@ -55,7 +55,7 @@ nem as pastas das caixas.
 **Caixas Desktop** is a Windows desktop organizer: semi-transparent boxes on the desktop, each
 linked to a real folder. It includes auto-sorting rules, per-monitor layout profiles, a position
 lock, roll-up boxes and start-with-Windows. The app UI is in Portuguese; the installer is
-multilingual. Download the installer from **[Releases](../../releases/latest)**.
+multilingual. Download the installer from **[Releases](../../releases)**.
 
 ---
 
