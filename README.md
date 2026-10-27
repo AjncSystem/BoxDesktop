@@ -14,7 +14,8 @@ Baixe o instalador na página de **[Releases](../../releases)**:
 - Windows 10 ou 11, 64 bits
 - Instala em `C:\Program Files\Caixas Desktop` e pede permissão de administrador
 - Fica em **Configurações → Aplicativos** para desinstalar quando quiser
-- O instalador está em 6 idiomas: português, inglês, espanhol, francês, alemão e italiano
+- Programa e instalador em 9 idiomas: português, inglês, espanhol, francês, alemão, italiano,
+  japonês, chinês simplificado e russo
 
 > O instalador ainda não é assinado digitalmente. Se o Windows mostrar "O Windows protegeu o
 > computador", clique em **Mais informações → Executar assim mesmo**.
@@ -36,14 +37,18 @@ Baixe o instalador na página de **[Releases](../../releases)**:
   Ao tirar o notebook da dock, as caixas se reorganizam, e ao voltar o layout é restaurado.
 - **Iniciar com o Windows**, ícone na bandeja e **Ctrl+Alt+H** para mostrar ou ocultar todas as
   caixas.
-- Interface em **português**.
+- **Janela de Configurações** com as abas Geral, Aparência, Caixas, Regras automáticas, Monitores
+  e Sobre.
+- **9 idiomas:** o programa abre no idioma escolhido na instalação, ou no do Windows, e dá para
+  trocar o idioma em Configurações sem reiniciar.
 
 ## 🧭 Como usar
 
 1. Depois de instalar, o ícone de **4 quadradinhos coloridos** aparece na bandeja, perto do relógio.
 2. Clique com o botão direito → **Nova caixa…** e escolha a pasta que ela vai mostrar.
 3. Arraste a caixa pela barra de título e redimensione pelas bordas. O botão **⋯** abre as opções.
-4. Se quiser, configure **Regras automáticas…** no menu da bandeja.
+4. Em **Configurações…**, no menu da bandeja, você ajusta o idioma, a aparência, as caixas, as
+   regras automáticas e os monitores.
 
 Suas caixas e configurações ficam em `%APPDATA%\CaixasDesktop`. Desinstalar não apaga essa pasta
 nem as pastas das caixas.
@@ -54,8 +59,9 @@ nem as pastas das caixas.
 
 **Caixas Desktop** is a Windows desktop organizer: semi-transparent boxes on the desktop, each
 linked to a real folder. It includes auto-sorting rules, per-monitor layout profiles, a position
-lock, roll-up boxes and start-with-Windows. The app UI is in Portuguese; the installer is
-multilingual. Download the installer from **[Releases](../../releases)**.
+lock, roll-up boxes, a settings window and start-with-Windows. The app and the installer are
+available in 9 languages (English, Portuguese, Spanish, French, German, Italian, Japanese,
+Simplified Chinese and Russian). Download the installer from **[Releases](../../releases)**.
 
 ---
 
